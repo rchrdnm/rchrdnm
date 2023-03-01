@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rchrdnm
-- 👀 I’m interested in building projects and problem solving
+- 👀 I’m interested in problem solving by building cool stuff
 - 🌱 I’m currently learning html, css, javascript > react
 - 💞️ I’m looking to collaborate on react projects
 - 📫 How to reach me ...
